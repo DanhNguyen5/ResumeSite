@@ -4,7 +4,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    // adding custom colors to tailwind config
+    extend: { 
+      colors: {
+        customColor: '#2F394D',
+      }
+    },
   },
   plugins: [],
 }
