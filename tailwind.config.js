@@ -4,12 +4,15 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    // adding custom colors to tailwind config
-    extend: { 
+    extend: {
+      fontFamily: {
+        custom: ['Space Grotesk', 'sans-serif'],
+      },
       colors: {
         customColor: '#2F394D',
-      }
+      },
     },
   },
   plugins: [],
-}
+  variants: {},
+};
