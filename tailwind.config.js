@@ -12,6 +12,8 @@ module.exports = {
       colors: {
         customColor: '#2F394D',
         customColorTwo: '#56666B',
+        customColorThree: '#EEE1B3',
+        customColorFour: '#38182F',
       },
     },
   },
