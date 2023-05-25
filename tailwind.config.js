@@ -7,9 +7,11 @@ module.exports = {
     extend: {
       fontFamily: {
         custom: ['Space Grotesk', 'sans-serif'],
+        customTwo: ['Playfair', 'sans-serif'],
       },
       colors: {
         customColor: '#2F394D',
+        customColorTwo: '#56666B',
       },
     },
   },
