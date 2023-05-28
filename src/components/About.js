@@ -13,7 +13,7 @@ export default function About() {
           <p className="mb-8 leading-relaxed text-customColorThree">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
             laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Laborum, voluptas natus? Ok
           </p>
           <div className="flex justify-center">
             <a
