@@ -6,7 +6,7 @@ import AnimatedText from './components/AnimatedText';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App overflow-x-hidden">
        <NavBar />
        <About />
        <Skills />
