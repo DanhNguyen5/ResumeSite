@@ -10,7 +10,7 @@ const NavBar = () => {
 		<div className="container mx-auto flex flex-col sm:flex-row justify-between items-center py-3">
 		  <div className="flex items-center space-x-2">
 			<UserIcon className="flex-shrink-0 h-5 w-5 text-white ml-2" />
-			<a href="#" className='text-lg text-white underline'>About Me</a>
+			<a href="#aboutme" className='text-lg text-white underline'>About Me</a>
 		  </div>
 		  <div className="flex items-center space-x-2">
 		  <FlagIcon className="flex-shrink-0 h-5 w-5 text-white ml-2" />

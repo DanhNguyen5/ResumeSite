@@ -8,7 +8,7 @@ import { MySkills, MyTechnologies } from "../data/data";
 
 const Skills = () => {
   return (
-    <section id="skills">
+    <div id="skills">
       <div className="container mx-auto bg-customColor px-20 py-20 font-customTwo" style={{ margin: '0 auto', maxWidth: '100%' }}>
         <div className="text-center md-10">
           <h1 className="sm:text-4xl text-3xl text-white mb-4">
@@ -45,7 +45,7 @@ const Skills = () => {
           ))}
         </div>
       </div>
-    </section>
+    </div>
   );
 }
 

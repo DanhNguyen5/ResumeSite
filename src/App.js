@@ -1,6 +1,7 @@
 import Skills from './components/Skills';
 import NavBar from './components/NavBar';
 import About from './components/About';
+import AnimatedText from './components/AnimatedText';
 
 
 function App() {
