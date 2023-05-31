@@ -4,7 +4,7 @@ import AnimatedText from './AnimatedText';
 const About = () => {
   return (
     <div id="aboutme">
-      <div className="container mx-auto flex pt-10 sm:flex-row flex-col items-center justify-center bg-customColor" style={{ margin: '0 auto', maxWidth: '100%' }}>
+      <div className="container mx-auto flex pt-10 pb-20 sm:flex-row flex-col items-center justify-center bg-customColor" style={{ margin: '0 auto', maxWidth: '100%' }}>
         <div className="flex flex-wrap w-full sm:w-1/3 text-2xl">
           <AnimatedText />
         </div>

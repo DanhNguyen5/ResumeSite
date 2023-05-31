@@ -16,3 +16,4 @@ export const MyTechnologies = [
   "Terminal, Command Prompt, Bash",
   "Microsoft Office Suite",
 ];
+

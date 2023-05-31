@@ -1,15 +1,19 @@
 import Skills from './components/Skills';
 import NavBar from './components/NavBar';
 import About from './components/About';
-import AnimatedText from './components/AnimatedText';
+import Footer from './components/Footer';
+import Experience from './components/Experience';
+import './styles.css';
 
 
 function App() {
   return (
-    <div className="App overflow-x-hidden">
+    <div className="App">
        <NavBar />
        <About />
+       <Experience />
        <Skills />
+       <Footer />
     </div>
   );
 }
