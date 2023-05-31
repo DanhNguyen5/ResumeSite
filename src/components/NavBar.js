@@ -14,7 +14,7 @@ const NavBar = () => {
 		  </div>
 		  <div className="flex items-center space-x-2">
 		  <FlagIcon className="flex-shrink-0 h-5 w-5 text-white ml-2" />
-		  	<a href="#" className='text-lg text-white underline'>Education &amp; Experience</a>
+		  	<a href="#experience" className='text-lg text-white underline'>Education &amp; Experience</a>
 		  </div>
 		  <a href="#" className="text-2xl text-white font-bold">Dan Nguyen</a>
 		  <div className="flex items-center space-x-2">

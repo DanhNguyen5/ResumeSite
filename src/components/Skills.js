@@ -11,7 +11,7 @@ const Skills = () => {
     <div id="skills">
       <div className="container mx-auto bg-customColor px-20 py-20 font-customTwo" style={{ margin: '0 auto', maxWidth: '100%' }}>
         <div className="text-center md-10">
-          <h1 className="sm:text-4xl text-3xl text-white mb-4">
+          <h1 className="sm:text-4xl text-3xl text-white mb-4 pb-10">
             Skills
           </h1>
         </div>
@@ -28,7 +28,7 @@ const Skills = () => {
           ))}
         </div>
         <div className="text-center mt-10">
-          <h1 className="sm:text-4xl text-3xl font-medium text-white mb-4">
+          <h1 className="sm:text-4xl text-3xl font-medium text-white mb-4 pb-10">
             Technologies
           </h1>
         </div>
